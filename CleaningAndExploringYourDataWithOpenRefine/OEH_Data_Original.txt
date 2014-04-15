@@ -1,0 +1,392 @@
+ASN Hotel Building (former), Visa Offices	91 George Street 	The Rocks 	Sydney 	Yes
+Bundarra Police Station & Courthouse	 Oliver Street 	Bundarra 	Uralla 	Yes
+Justice and Police Museum	4-8 Phillip Street 	Sydney 	Sydney 	Yes
+North Sydney Post Office	92-94 Pacific Highway 	North Sydney 	North Sydney 	Yes
+Old Police Station & Courthouse	74 Binnia Street 	Coolah 	Warrumbungle 	Yes
+Police Station (East Maitland)	20 John Street 	East Maitland 	Maitland 	Yes
+Police Station (former)	281 Clarence Street 	Sydney 	Sydney 	Yes
+Police Station (former)	808-810 Victoria Road 	Ryde 	Ryde 	Yes
+Police Station (former) - Australian Craftworks Gallery	127-129 George Street 	The Rocks 	Sydney 	Yes
+Stables at rear of Police Station	32-34 Bridge Street 	Windsor 	Hawkesbury	Yes
+Adaminaby Police Station	 York Street 	Adaminaby 	Snowy River 	LGOV
+Adamstown Police Station	67 Narara Road 	Adamstown 	Newcastle 	LGOV
+Adelong Police Station and Official Residence	 Lockhart Street and Campbell Street 	Adelong 	Tumut 	SGOV
+Albion Park Police Station and Official Residence	96 Flinders Street 	Albion Park 	Shellharbour 	SGOV
+Albury Police Station Annexe	539-543 Olive Street 	Albury 	Albury City 	SGOV
+Alstonville Police Station	2 Perry Street 	Alstonville 	Ballina 	SGOV
+Annandale Police Station	136-138 Annandale Street (Cnr Collins Street) 	Annandale 	Leichhardt 	SGOV
+Archaeological item - Police Station (former)	281 Clarence Street 	Sydney  	Sydney 	LGOV
+Ardlethan Police Station and Lockup Residence	 Yithan Street and Warri Street 	Ardlethan 	Coolamon 	SGOV
+Ariah Park Police Station and Lockup Residence	 Reid Street and Hopetoun Street, corner of 	Ariah Park 	Temora 	SGOV
+Armidale Police Station , Former	1 Moore Street (110 Faulkner Street) 	Armidale 	Armidale Dumaresq 	SGOV
+Ashfield Police Station, Former	14 Victoria Street 	Ashfield 	Ashfield 	SGOV
+ASN Hotel (former)	91 George Street 	The Rocks 	Sydney 	SGOV
+Balmain Police Station	368 Darling Street 	Balmain 	Leichhardt 	SGOV
+Bangalow Police Station	95 Byron Street 	Bangalow 	Byron 	SGOV
+Bangalow Police Station and Residence	93 Byron Street 	Bangalow 	Byron 	LGOV
+Barellan Police Station	 Bendee Street and Myall Street 	Barellan 	Narrandera 	SGOV
+Batemans Bay Historical Society Museum	3 Museum Place 	Batemans Bay 	Eurobodalla 	LGOV
+Bellata Police Station and Official Residence	 Railway Parade (Newell Highway) 	Bellata 	Narrabri 	SGOV
+Bellbrook Police Station and Official Residence	24-30 Main Street 	Bellbrook 	Kempsey 	SGOV
+Bellingen Police Station and Official Residence	47-49 Hyde Street 	Bellingen 	Bellingen 	SGOV
+Bemboka Police Station and Official Residence	35-39 Loftus Street 	Bemboka 	Bega Valley 	SGOV
+Bendemeer Police Station and Official Residence	 Aurora Street and Caroline Street, corner Of 	Bendemeer 	Tamworth Regional 	SGOV
+Berridale Police Station and Residence	 Hosking Street 	Berridale 	Snowy River 	LGOV
+Berrigan Police Station	82 Jerilderie Street 	Berrigan 	Albury City 	SGOV
+Bingara Police Station and Official Residence 2	30-32 Maitland Street 	Bingara 	Gwydir 	SGOV
+Binnaway Police Station and Official Residence 2	 Bullinda Street 	Binnaway 	Warrumbungle 	SGOV
+Bodalla Police Station and Official Residence	2301 Princes Highway 	Bodalla 	Eurobodalla 	SGOV
+Bogan Gate Police Station and Official Residence	Lot 4 Lachlan Street 	Bogan Gate 	Parkes 	SGOV
+Bombala Police Station	64 Forbes Street 	Bombala 	Bombala 	SGOV
+Bourke Police Station and Office Building	46 Oxley Street, Cnr Richard Street 	Bourke 	Bourke 	SGOV
+Bowral Police Station	53 Wingecarribee Street 	Bowral 	Wingecarribee 	SGOV
+Bowral Police Station Office 1	55 Wingecarribee Street 	Bowral 	Wingecarribee 	SGOV
+Bowral Police Station Office 2	57 Wingecarribee Street 	Bowral 	Wingecarribee 	SGOV
+Bowraville Police Station and Official Residence	25A High Street 	Bowraville 	Nambucca 	SGOV
+Braidwood Police Station and Official Residence	172 Wallace Street 	Braidwood 	Palerang 	SGOV
+Branxton Police Station	52 Cessnock Road 	Branxton 	Cessnock 	SGOV
+Brewarrina Police Station	96 Bathurst Street 	Brewarrina 	Brewarrina 	SGOV
+Broken Hill Detectives Office	243 Blende Street 	Broken Hill 	Broken Hill 	SGOV
+Broken Hill Police Station	252 Argent Street 	Broken Hill 	Broken Hill 	SGOV
+Brushgrove Police Station & Residence, Former	9 Clarence Street 	Brushgrove 	Clarence Valley 	LGOV
+Bulga Police Station and Official Residence	 Windsor Road 	Bulga 	Singleton 	SGOV
+Bulli Police Station and Court House	329 - 331 Princes Highway 	Bulli 	Wollongong City 	LGOV
+Bungendore Police Station and Official Residence	 Gibraltar Street 	Bungendore 	Palerang 	SGOV
+Burwood Police Station and Courthouse	24 Burleigh Street 	Burwood 	Burwood 	LGOV
+Byron Bay Police Station	2 Shirley Street 	Byron Bay 	Byron 	SGOV
+Camden Police Station	33-35 John Street 	Camden 	Camden 	SGOV
+Camden Police Station & Residence	35 John Street 	Camden 	Camden 	LGOV
+Candelo Police Station and Official Residence	 Queen Street 	Candelo 	Bega Valley 	SGOV
+Capertee Police Station	 Mudgee Road 	Capertee 	Lithgow 	SGOV
+Captain's Flat Police Station and Official Residence	178 Foxlow Street 	Captains Flat 	Palerang 	SGOV
+Carcoar Police Station and Official Residence	2 Icely Street, Cnr Coombing Street 	Carcoar 	Blayney 	SGOV
+Cassilis Police Station and Official Residence	9-11 Branksome Street 	Cassilis 	Upper Hunter 	SGOV
+Cessnock Court House & Police Station Group	6 Maitland Road 	Cessnock 	Cessnock 	LGOV
+Cessnock Courthouse	6 Maitland Road 	Cessnock 	Cessnock 	LGOV
+Cobar Police Station	19-21 Barton Street 	Cobar 	Cobar 	SGOV
+Cobargo Police Station and Official Residence	 Bermagui Road 	Cobargo 	Cobar 	SGOV
+Cobbora Police Station Court House and Goal	 Dunedoo Street 	Cobbora 	Warrumbungle 	LGOV
+Collarenebri Police Station and Official Residence 1	 Earl Street, Corner Walgett Street 	Collarenebri 	Walgett 	SGOV
+Condobolin Police Station	8 Denison Street 	Condobolin 	Lachlan 	SGOV
+Coolamon Police Station and Lockup Residence	56 Loughman Street, Corner Methul Street 	Coolamon 	Coolamon 	SGOV
+Cooma Police Station	91 Massie Street 	Cooma 	Cooma-Monaro 	SGOV
+Coopernook Police Station and Station-master's Quarters	14 Macquarie Street and Henry Street, corner of 	Coopernook 	Greater Taree 	SGOV
+Cootamundra Police Station	101 Cooper Street 	Cootamundra 	Cootamundra 	SGOV
+Cootamundra Police Station Office	103-105 Cooper Street 	Cootamundra 	Cootamundra 	SGOV
+Copmanhurst Police Station & Residence	12 Prescott Street 	Copmanhurst 	Clarence Valley 	LGOV
+Copmanhurst Police Station and Official Residence	 Prescott Street 	Copmanhurst 	Clarence Valley 	SGOV
+Coraki Police Station and Official Residence	127 Richmond Terrace 	Coraki 	Richmond Valley 	SGOV
+Coramba Police Station and Official Residence	71-73 Gale Street, Corner Main Road 	Coramba 	Coffs Harbour  	SGOV
+Corowa Police Station	15 Queen Street 	Corowa 	Albury City 	SGOV
+Court House and Police Station	 Yass Street 	Gunning 	Upper Lachlan 	LGOV
+Court House and Police Station	368 Darling Street 	Balmain 	Leichhardt 	LGOV
+Court House and Police Station (former)	 Durbin Street 	Nundle 	Tamworth Regional 	LGOV
+Court House, Police Station and Lock-up	61 Dalley Street 	Mullumbimby 	Byron 	LGOV
+Courthouse	222 Australia Street 	Newtown 	Marrickville 	LGOV
+Courthouse & Police Station	 Maitland Road 	Cessnock 	Cessnock 	GAZ
+Courthouse & Police Station	 Branksome Street 	Cassilis 	Mid-Western Regional 	GAZ
+Courthouse & Police Station, Former	 Maitland Road 	Wollombi 	Cessnock 	GAZ
+Courthouse & Police Station, Former	 Palace Street 	Denman 	Muswellbrook 	GAZ
+Courthouse and Police Station	26-30 Toallo Street 	Pambula 	Bega Valley 	LGOV
+Courthouse and Police Station	 Murulla Street 	Murrurundi 	Upper Hunter 	LGOV
+Courthouse Group	 Currajong Street 	Parkes 	Parkes 	GAZ
+Courthouse, Police Station, Cottage	 Francis Street 	Moama 	Murray 	GAZ
+Courthouse/Police Station	89-91 River Street 	Woodburn 	Richmond Valley 	GAZ
+Crown Prosecutors Office, Formerly Police Station	Corner Duke & Victoria Street 	Grafton 	Clarence Valley 	LGOV
+Culcairn Police Station and Official Residence	33 Balfour Street 	Culcairn 	Albury City 	SGOV
+Cumnock Police Station and Official Residence	21 McLaughlin Street 	Cumnock 	Cabonne 	SGOV
+Darlinghurst Police Station (former)	 Bourke Street 	Darlinghurst 	Sydney 	LGOV
+Deepwater Police Station and Official Residence	 Gough Street, Corner Simpson Street 	Deepwater 	Glen Innes Severn 	SGOV
+Delegate Police Station	  	Bombala 	Bombala 	LGOV
+Delegate Police Station and Official Residence	30 Bombala Street, Corner Hayden Street 	Delegate 	Bombala 	SGOV
+Deniliquin Police Station Office	399-401 Charlotte Street 	Deniliquin 	Deniliquin 	SGOV
+Dorrigo Police Station and Official Residence	2 Bielsdown Street 	Dorrigo 	Bellingen 	SGOV
+Dungog Police Station , Former	86 Lord Street 	Dungog 	Dungog 	SGOV
+East Gresford Police Station and Official Residence	 Durham Road 	East Gresford 	Dungog 	SGOV
+Eden Police Station	129 Imlay Street 	Eden 	Bega Valley 	SGOV
+Eden Police Station building	229 Imlay Street 	Eden 	Bega Valley 	LGOV
+Ellenborough Police Station and Official Residence	46 Ellenborough Road (Old Oxley Highway) 	Ellenborough 	Port Macquarie-Hastings 	SGOV
+Emergency Services	32 High Street 	Morpeth 	Maitland 	LGOV
+Eugowra Police Station	43-45 Nanima Street 	Eugowra 	Cabonne 	SGOV
+Federation Courthouse, Police Station & Stables	175 Moss Vale Road 	Kangaroo Valley 	Shoalhaven 	LGOV
+Federation Police Residence & Lockup (former)	 Kinghorne Street 	Nowra 	Shoalhaven 	LGOV
+Federation Rendered Courthouse & Police Station	64 Princes Highway 	Milton 	Shoalhaven 	LGOV
+Finley Police Station	229 Murray Street 	Finley 	Berrigan 	SGOV
+Five Dock Police Station	14 Garfield Street 	Five Dock 	Canada Bay 	LGOV
+Five Dock Police Station	14 Garfield Street 	Five Dock 	Canada Bay 	SGOV
+Forbes Police Station	8 Victoria Lane 	Forbes 	Forbes 	SGOV
+Former Police Station	534 Wilberforce Road 	Wilberforce 	Hawkesbury 	LGOV
+Ganmain Police Station and Official Residence	44 Langham Street 	Ganmain 	Coolamon 	SGOV
+Gaol and Police Station	 Molesworth Street 	Tenterfield 	Tenterfield 	LGOV
+Gladstone Police Station	4 - 6 Kinchela Street 	Gladstone 	Kempsey 	SGOV
+Glebe Police Station	1-3 Talfourd Street Cnr St John's Road 	Glebe 	Leichhardt 	SGOV
+Glen Innes Police Station	126 Meade Street 	Glen Innes 	Glen Innes Severn 	SGOV
+Gloucester Police Station	6 Church Street 	Gloucester 	Gloucester 	SGOV
+Gooloogong Police Station and Official Residence	 King Street and Forbes Street 	Gooloogong 	Cowra 	SGOV
+Goulburn Police Station	274 Sloane Street 	Goulburn 	Mid-Western Regional 	SGOV
+Goulburn Police Station Office	276 Sloane Street 	Goulburn 	Mid-Western Regional 	SGOV
+Government Offices	53 Oxley Street 	Bourke 	Bourke 	LGOV
+Grafton Old Courthouse Site	51 Victoria Street 	Grafton 	Clarence Valley 	LGOV
+Granville Police Station	10,12 Hutchinson Street 	Granville 	Parramatta 	LGOV
+Granville Police Station	10-12 Hutchinson Street 	Granville 	Parramatta 	SGOV
+Grenfell Police Station	3 Church Street 	Grenfell 	Weddin 	SGOV
+Griffith Police Station , Former	60-66 Ulong Street 	Griffith 	Griffith 	SGOV
+Grong Grong Police Station and Lockup Residence	 Bunganbil Street 	Grong Grong 	Narrandera 	SGOV
+Gulargambone Police Station	45 Bourbah Street 	Gulargambone 	Coonamble 	SGOV
+Gulgong Official Residence 3	63 Medley Street 	Gulgong 	Mid-Western Regional 	SGOV
+Gulgong Police Station and Official Residence	61 Medley Street 	Gulgong 	Mid-Western Regional 	SGOV
+Hamilton Police Station	57 James Street and Milton Street, corner of 	Hamilton 	Newcastle 	SGOV
+Helensburgh Police Station and Official Residence	75 Parkes Street, Corner Waratah Street 	Helensburgh 	Wollongong City 	SGOV
+Henty Police Station and Official Residence	41 Sladen Street 	Henty 	Greater Hume 	SGOV
+Hill End Police Station and Official Residence	 Tambaroora Street 	Hill End 	Bathurst Regional 	SGOV
+Hillston Official Residence 1	38 Molesworth Street 	Hillston 	Carrathool 	SGOV
+Holbrook Police Station and Lockup Keeper's Residence	64 Albury Street 	Holbrook 	Greater Hume 	SGOV
+House	4 Mid-Dural Road 	Galston 	Hornsby 	LGOV
+House opposite park	77 Clarkson Street 	Nabiac 	Great Lakes 	LGOV
+Inverell Police Station Office 1	62 Campbell Street 	Inverell 	Inverell 	SGOV
+Inverell Police Station Office 2	60 Campbell Street 	Inverell 	Inverell 	SGOV
+Junee Police Station	3 Belmore Street 	Junee 	Junee 	LGOV
+Junee Police Station	15 Belmore Street 	Junee 	Junee 	SGOV
+Kangaroo Valley Police Station and Official Residence	175 Main Road 	Kangaroo Valley 	Shoalhaven 	SGOV
+Kew Police Station and Official Residence	 Old Pacific Highway 	Kew 	Port Macquarie-Hastings 	SGOV
+Kiama Police Station	32 Terralong Street 	Kiama 	Kiama 	SGOV
+Kurri Kurri Police Station and Official Residence	113 Lang Street 	Kurri Kurri 	Cessnock 	SGOV
+Kyogle Official Residence	64-66 Groom Street 	Kyogle 	Kyogle 	SGOV
+Lambton Police Station & Lockup Residence (Former)	22 Dickson Street 	Lambton 	Newcastle 	LGOV
+Lambton Police Station and Lockup Keeper's Residence	22 Dickson Street 	Lambton 	Newcastle 	SGOV
+Leeton Police Station and Site	24 Oak Street 	Leeton 	Leeton 	SGOV
+Leichhardt Police Station	30 Marlborough Street 	Leichhardt 	Leichhardt 	SGOV
+Lidcombe Police Station	11 John Street 	Lidcombe 	Auburn 	LGOV
+Lismore Police Station	40 Molesworth Street 	Lismore 	Lismore 	LGOV
+Lismore Police Station	40 Molesworth Street 	Lismore 	Lismore 	LGOV
+Lismore Police Station	40 Molesworth Street 	Lismore 	Lismore 	SGOV
+Lithgow Patrol Office , Former	156 Mort Street 	Lithgow 	Lithgow 	SGOV
+Lithgow Police Station , Former	 Bridge Street 	Lithgow 	Lithgow 	SGOV
+Lochinvar Police Station and Official Residence	24 Station Lane 	Lochinvar 	Maitland 	SGOV
+Macksville Police Station and Court House	51 River Street 	Macksville 	Nambucca 	SGOV
+Maclean McNaughton Place Police Station	 McNaughton Place 	Maclean 	Clarence Valley 	LGOV
+Maclean Police Station	1 McNaughton Place 	Maclean 	Clarence Valley 	SGOV
+Malabar Police Station	1234 Anzac Parade 	Malabar 	Randwick 	SGOV
+Manly Police Station	3 Belgrave Street 	Manly 	Manly 	SGOV
+Marrickville Police Station (former)	4 - 8 Gladstone Street 	Marrickville 	Marrickville 	LGOV
+Marulan Police Station	 George Street 	Marulan 	Goulburn Mulwaree 	SGOV
+Mathoura Police Station and Official Residence	 Mathoura Street, Corner Lawrence Street 	Mathoura 	Murray 	SGOV
+Mayfield Police Station	219-221A Maitland Road 	Mayfield 	Newcastle 	LGOV
+Menindee Police Station	 Yartla Street 	Menindee 	Central Darling 	SGOV
+Merriwa Police Station and Official Residence 2	 Vennacher Street 	Merriwa 	Upper Hunter 	SGOV
+Millthorpe Police Station and Official Residence	34 Park Street 	Millthorpe 	Blayney 	SGOV
+Mittagong Police Station	 Station Street, Corner Regent Street 	Mittagong 	Wingecarribee 	SGOV
+Moama Police Station	27 Maiden Street 	Moama 	Murray 	SGOV
+Molong Police Station	1 Edward Street and Thistle Street, corner of 	Molong 	Cabonne 	SGOV
+Morpeth Police Station, Former	32 High Street and George Street, corner of 	Morpeth 	Maitland 	SGOV
+Mosman Police Station	96A Bradleys Head Road 	Mosman 	Mosman 	LGOV
+Mosman Police Station	96 Bradleys Head Road 	Mosman 	Mosman 	SGOV
+Mount Victoria Police Station and Official Residence	32 Station Street 	Mount Victoria 	Blue Mountains  	SGOV
+Mudgee Police Station	94 Market Street 	Mudgee 	Mid-Western Regional 	SGOV
+Mullumbimby Court House, Police Station and Official Residence	59-61 Dalley Street 	Mullumbimby 	Byron 	SGOV
+Mulwala Police Station	81 Melbourne Street 	Mulwala 	Corowa 	SGOV
+Murrurundi Courthouse, Police Station and Official Residence 1	Lot 6 Murulla Street 	Murrurundi 	Upper Hunter 	SGOV
+Murwillumbah Police Station	81 Murwillumbah Street, Church Lane 	Murwillumbah 	Tweed 	SGOV
+Murwillumbah Police Station and Courthouse Group	61 - 83 Murwillumbah Street 	Murwillumbah 	Tweed 	LGOV
+Murwillumbah Police Station Office	85 Murwillumbah Street, Church Lane 	Murwillumbah 	Tweed 	SGOV
+Museum (formerly Police Station)	 Aberford Street 	Coonamble 	Coonamble 	LGOV
+Muswellbrook Police Station	 William Street 	Muswellbrook 	Muswellbrook 	LGOV
+Muswellbrook Police Station , Former	26 William Street 	Muswellbrook 	Muswellbrook 	SGOV
+Mv084 : Police Station and Lock-up	32 Station Street 	Mount Victoria 	Blue Mountains  	LGOV
+Nabiac Police Station and Official Residence	70 Clarkson Street 	Nabiac 	Great Lakes 	SGOV
+Nambucca Heads Police Station and Official Residence	25 Bowra Street (Pacific Highway) 	Nambucca Heads 	Nambucca 	SGOV
+Narrandera Police Station	129-131 Larmer Street 	Narrandera 	Narrandera 	SGOV
+Narromine Police Station	16 Burraway Street 	Narromine 	Narromine 	SGOV
+Neighbourhood Centre	 Sempill Street 	Maitland 	Maitland 	LGOV
+Newcastle East Police Station (Former)	63 Scott Street 	Newcastle East 	Newcastle 	LGOV
+Nimmitabel Police Station and Official Residence	 Clark Street, Corner Bombala Street 	Nimmitabel 	Cooma-Monaro 	SGOV
+North Sydney Post Office - Police Station - Court House	92-96 Pacific Highway 	North Sydney 	North Sydney 	LGOV
+Nundle Police Station	 Gill Street, Corner Durban Street and Jenkins Street 	Nundle 	Tamworth Regional 	SGOV
+Nymagee Police Station and Official Residence	 Milford Street, Corner Bathurst Street 	Nymagee 	Cobar 	SGOV
+Old Gosford Courthouse	 Cnr Mann Street and Georgiana Terrace 	Gosford 	Gosford 	LGOV
+Old Grafton Police Station	 Victoria Street 	Grafton 	Clarence Valley 	GAZ
+Old Police Station	 Great Western Highway 	Emu Plains 	Penrith 	SGOV
+Paddington Police Station	16 Jersey Road 	Paddington 	Woollahra 	SGOV
+Parkes Police Station Offices	2-8 Court Street, Corner Hill Street 	Parkes 	Parkes 	SGOV
+Parramatta Archaeological Management Unit 3089	 George Street 	Parramatta 	Parramatta 	LGOV
+Pathway from Magazine Precinct to Water Police Station Precinct	 Goat Island 	Port Jackson, Sydney Harbour 	Unincorporated Waterway 	GAZ
+Peak Hill Police Station and Official Residence	80 Derribong Street, Corner Duggan Street 	Peak Hill 	Parkes 	SGOV
+Petersham Police Station	2-4 New Canterbury Road 	Petersham 	Marrickville 	LGOV
+Petersham Police Station	2-4 New Canterbury Road, Corner Shaw Street 	Petersham 	Marrickville 	SGOV
+Picton Police Station	86 Argyle Street 	Picton 	Wollondilly 	SGOV
+Picton Police Station Office	84 Argyle Street 	Picton 	Wollondilly 	SGOV
+Pilliga Police Station and Official Residence	 Dangar Street, Corner Gordon Street 	Pilliga 	Narrabri 	SGOV
+Plunkett Street Conservation Area	 Plunket Street 	Nowra 	Shoalhaven 	GAZ
+Police Barracks - Police Station, Former	405 Charlotte Street 	Deniliquin 	Deniliquin 	LGOV
+Police Outbuildings & Stables	 John Street 	East Maitland 	Maitland 	LGOV
+Police Residence	 Branksome Street 	Cassilis 	Mid-Western Regional 	GAZ
+Police Residence	65 Narara Road 	Adamstown 	Newcastle 	LGOV
+Police Sergeant's Residence, Former	38 Mertin Street 	Bourke 	Bourke 	LGOV
+Police Station	 Walker street 	Casino 	Richmond Valley 	GAZ
+Police Station	 Terralong Street 	Kiama 	Kiama 	GAZ
+Police Station	 William Street 	Muswellbrook 	Muswellbrook 	GAZ
+Police Station	 Railway Parade 	Bellata 	Narrabri 	GAZ
+Police Station	 Hill Street 	Parkes 	Parkes 	GAZ
+Police Station	125-129 Richmond Terrace 	Coraki 	Richmond Valley 	GAZ
+Police Station	 Doyle Street 	Jerrys Plains 	Singleton 	GAZ
+Police Station	22 Hunter Street 	Singleton 	Singleton 	GAZ
+Police Station	110 Faulkner Street 	Armidale 	Armidale Dumaresq 	LGOV
+Police Station	12-14 Victoria Street 	Ashfield 	Ashfield 	LGOV
+Police Station	 Elizabeth Street 	Riverstone 	Blacktown 	LGOV
+Police Station	 Park Street 	Millthorpe 	Blayney 	LGOV
+Police Station	 Icely Street 	Carcoar 	Blayney 	LGOV
+Police Station	46 Oxley Street 	Bourke 	Bourke 	LGOV
+Police Station	252 Argent Street 	Broken Hill 	Broken Hill 	LGOV
+Police Station	21 Maclaughlin Street 	Cumnock 	Cabonne 	LGOV
+Police Station	 Barton Street 	Cobar 	Cobar 	LGOV
+Police Station	71-73 Gale Street 	Coramba 	Coffs Harbour  	LGOV
+Police Station	8 Church Street 	Cloucester 	Gloucester 	LGOV
+Police Station	 Albury Street 	Holbrook 	Greater Hume 	LGOV
+Police Station	21 Collins Street 	Annandale 	Leichhardt 	LGOV
+Police Station	 Railway Street 	Lochinvar 	Maitland 	LGOV
+Police Station	57 James Street 	Hamilton 	Newcastle 	LGOV
+Police Station	28 Coogee Bay Road 	Randwick 	Randwick 	LGOV
+Police Station	808 Victoria Road 	Ryde 	Ryde 	LGOV
+Police Station	 Louee Street 	Rylstone 	Mid-Western Regional 	LGOV
+Police Station	 Illawarra Highway/Hoddle Street 	Robertson 	Wingecarribee 	LGOV
+Police Station	 New South Head Road, East Cnr of Wunulla Road 	Point Piper 	Woollahra 	LGOV
+Police Station	 Dening Street, Cnr Short Street 	The Entrance 	Wyong 	LGOV
+Police Station	 Stephen Street 	Warialda 	Gwydir 	LGOV
+Police Station & former Courthouse	 Macquarie Street 	Coopernook 	Greater Taree 	GAZ
+Police Station & Lockup	120 Parkes Street 	Helensburgh 	Wollongong City 	LGOV
+Police Station & Residence & Sheriffs Cottage	 Meade Street 	Glen Innes 	Glen Innes Severn 	LGOV
+Police Station & Residence (Former)	45 Erskine Street 	Dubbo 	Dubbo 	LGOV
+Police Station & Residence (Former)	1 Punt Road 	Emu Plains 	Penrith 	LGOV
+Police Station & Sergeants Residence (former)	 Cumberland Street 	East Maitland 	Maitland 	LGOV
+Police Station (c.1871)	 Botany Road 	Botany 	Botany Bay 	LGOV
+Police Station (former)	79 York Street 	Singleton 	Singleton 	GAZ
+Police Station (former)	  	Mittagong 	Wingecarribee 	GAZ
+Police Station (former)	46-48 Loftus Street 	Bemboka 	Bega Valley 	LGOV
+Police Station (former)	 Bega Street 	Wolumla 	Bega Valley 	LGOV
+Police Station (former)	 Gogeldrie Street 	Whitton 	Leeton 	LGOV
+Police Station (former)	707 Darling Street 	Rozelle 	Leichhardt 	LGOV
+Police Station (former)	210 Parramatta Road 	Camperdown 	Leichhardt 	LGOV
+Police Station (former)	 John Street 	East Maitland 	Maitland 	LGOV
+Police Station (former)	846 - 854 Princes Highway 	Tempe 	Marrickville 	LGOV
+Police Station (Former)	90 Hunter Street 	Newcastle 	Newcastle 	LGOV
+Police Station (Former)	558 Hunter Street 	Newcastle 	Newcastle 	LGOV
+Police Station (former)	  	Dalgety 	Snowy River 	LGOV
+Police Station (former)	701-703 Bourke Street 	Surry Hills 	Sydney 	LGOV
+Police Station (former)	281 Clarence Street 	Sydney 	Sydney 	LGOV
+Police Station (former)	 St Johns Road 	Glebe 	Sydney 	LGOV
+Police Station (former)	127-129 George Street 	The Rocks 	Sydney 	SGOV
+Police Station (Former) / Residence	1A Newcastle Street 	Stockton 	Newcastle 	LGOV
+Police Station (Former) and Residence	23 Westcourt Road 	New Lambton 	Newcastle 	LGOV
+Police Station (former): East Yerranderie Group	  	Yerranderie 	Wollondilly 	LGOV
+Police station (former, now police residence)	5 Wallaga Street 	Bermagui 	Bega Valley 	LGOV
+Police Station (original), Stable and Lock-up	 Cork Street (west side) 	Gundaroo 	Yass Valley 	LGOV
+Police Station - Courthouse	 Merinda Street 	Hargraves 	Mid-Western Regional 	LGOV
+Police Station - Gulgong	61 Medley Street 	Gulgong 	Mid-Western Regional 	LGOV
+Police Station and Court House	215 High Street 	Coffs Harbour 	Coffs Harbour  	LGOV
+Police Station and Court House	25 High Street 	Bowraville 	Nambucca 	LGOV
+Police Station and Court House	16 Jersey Road 	Paddington 	Woollahra 	LGOV
+Police Station and Courthouse	24 Bermagui Road 	Cobargo 	Bega Valley 	LGOV
+Police Station and Courthouse	 Intersection, Shirley and Butler Streets 	Byron Bay 	Byron 	LGOV
+Police Station and Courthouse (Former)	40 Church Street 	Minmi 	Newcastle 	LGOV
+Police Station and Lock Up	23-27 Clarke Street 	Catherine Hill Bay 	Lake Macquarie 	LGOV
+Police Station and Lock-up	96-100 Princes Highway 	Bodalla 	Eurobodalla 	LGOV
+Police Station and Lockup	 Bombala Street 	Nimmitabel 	Cooma-Monaro 	LGOV
+Police Station and Lockup	 Forbes Street 	Grenfell 	Weddin 	LGOV
+Police Station and Quarters	10-12 Alison Road 	Wyong 	Wyong 	LGOV
+Police Station and Residence	 Old Northern Road 	Wisemans Ferry 	Baulkham Hills  	LGOV
+Police Station and Residence	7 Edward Street, Cnr Thistle Street 	Molong 	Cabonne 	LGOV
+Police Station and residence (former)	2-6 Church Street 	Corowa 	Corowa 	LGOV
+Police Station and Residence (Former)	11 Bridge Street 	Brooklyn 	Hornsby 	LGOV
+Police Station anf former Courthouse	  	Robertson 	Wingecarribee 	GAZ
+Police Station building	 Snowy Mountains Highway 	Bemboka 	Bega Valley 	LGOV
+Police Station building	20 Tathra Road 	Kew 	Port Macquarie-Hastings 	LGOV
+Police Station building and associated mature trees	 off Oxley Highway 	Ellenborough 	Port Macquarie-Hastings 	LGOV
+Police Station Complex	  	Uralla 	Uralla 	LGOV
+Police Station Group	 Larmer Street 	Narrandera 	Narrandera 	GAZ
+Police Station Group	 Maughan Street 	Wellington 	Wellington 	LGOV
+Police Station Old (Destroyed)	 Great Western Highway 	Emu Plains 	Penrith 	LGOV
+Police Station Residence	 Terralong Street 	Kiama 	Kiama 	GAZ
+Police Station, Former	20 Charlotte Street 	Holmesville 	Lake Macquarie 	LGOV
+Police Station, Mittagong	 Regent Street 	Mittagong 	Wingecarribee 	LGOV
+Police Station, Residence & Lockup	 Wynyard Street 	Tumut 	Tumut 	GAZ
+Police Station/Residence, Former	32 Finch Street 	Bingara 	Gwydir 	GAZ
+Pooncarie Police Station	 Tarcoola Street 	Pooncarie 	Wentworth 	GAZ
+Port Macquarie Police Station , Former	2 Hay Street 	Port Macquarie 	Port Macquarie-Hastings 	SGOV
+Post Office (former)	 Myack Street 	Berridale 	Snowy River 	LGOV
+Presbyterian Church Manse, Former	 Hay Street 	Port Macquarie 	Port Macquarie-Hastings 	LGOV
+Private Residence / Arts & Crafts Centre	 Palace Street 	Denman 	Muswellbrook 	LGOV
+Pymble Police Station	1116 Pacific Highway 	Pymble 	Ku-Ring-Gai 	LGOV
+Redfern Court House and Police Station (former)	103-105 Redfern Street 	Redfern 	Sydney 	LGOV
+Redfern Police Station	30 Turner Street 	Redfern 	Sydney 	LGOV
+Residence	62 Manilla St 	Manilla 	Tamworth Regional 	LGOV
+Residence (Former Police Stn)	13 Braidwood Street 	Nelligen 	Eurobodalla 	LGOV
+Richmond Police Station and Court House	288 Windsor Street 	Richmond 	Hawkesbury 	SGOV
+Riverstone Police Station	 Railway Terrace, Corner Elizabeth Street 	Riverstone 	Blacktown 	SGOV
+Robertson Police Station and Official Residence	43 Hoddle Street 	Robertson 	Wingecarribee 	SGOV
+Rockley Police Station and Lockup Residence	 Church Street 	Rockley 	Bathurst Regional 	SGOV
+Rose Bay Police Station	1 Wunulla Road, Corner New South Head Road 	Rose Bay 	Waverley 	SGOV
+Ryde Police Station	808-810 Victoria Road and Belmore Street, corner of 	Ryde 	Ryde 	SGOV
+Rylstone Police Station and Official Residence 2	89 Louee Street 	Rylstone 	Mid-Western Regional 	SGOV
+Scarborough Police Station	393 - 395 Lawrence Hargrave Drive 	Scarborough 	Wollongong City 	LGOV
+Scarborough Police Station and Official Residence	393-395 Lawrence Hargrave Drive 	Scarborough 	Wollongong City 	SGOV
+Sergeants Residence	 Cumberland Street 	East Maitland 	Maitland 	LGOV
+Singleton Police Station	22 Hunter Street 	Singleton 	Singleton 	SGOV
+South Police Station (Former)	157 Patton Street 	Broken Hill 	Broken Hill 	LGOV
+St Andrews Anglican Ministry Centre	17 Keen Street 	Lismore 	Lismore 	LGOV
+Stables Complex	82 Market Street 	Mudgee 	Mid-Western Regional 	LGOV
+Sydney Central Police Court and Police Station	98 Liverpool Street 	Sydney 	Sydney 	LGOV
+Tallimba Police Station and Official Residence	 Main Street 	Tallimba 	Bland 	SGOV
+Tambar Springs Police Station and Official Residence	 Tamba Street 	Tambar Springs 	Gunnedah 	SGOV
+Taralga Police Station and Official Residence	 Macarthur Street 	Taralga 	Upper Lachlan 	SGOV
+Tea Gardens Police Station	51-53 Marine Drive 	Tea Gardens 	Great Lakes 	SGOV
+Temora Police Station	148 De Boos Street 	Temora 	Temora 	SGOV
+Tenterfield Police Station	94 Molesworth Street 	Tenterfield 	Tenterfield 	SGOV
+The Rock Police Station and Official Residence	 Nicholas Street, Corner Emily Street 	The Rock 	Lockhart 	SGOV
+The Rocks Police Station	132-134 George Street 	The Rocks 	Sydney 	SGOV
+Tingha Police Station	 Opal Street, Corner Ohio Street 	Tingha 	Guyra 	SGOV
+Tocumwal Police Station	66-78 Deniliquin Road, Corner Morris Street 	Tocumwal 	Berrigan 	SGOV
+Tocumwal Police Station,Stables & Court House	 Deniliquin Street 	Tocumwal 	Berrigan 	LGOV
+Tottenham Police Station and Official Residence	76-78 Umang Street 	Tottenham 	Lachlan 	SGOV
+Trangie Police Station	5 Temoin Street, Corner Macquarie Street 	Trangie 	Narromine 	SGOV
+Tree - River Red Gum	 Short Street 	Mudgee 	Mid-Western Regional 	LGOV
+Trunkey Creek Police Station and Lockup Keeper's Residence	 Church Street 	Trunkey Creek 	Bathurst Regional 	SGOV
+Tullamore Police Station	15 Haylock Street 	Tullamore 	Parkes 	SGOV
+Tullibigeal Police Station and Official Residence	9 Dundoo Street 	Tullibigeal 	Lachlan 	SGOV
+Tumbarumba Police Station	  	Tumbarumba 	Tumbarumba 	LGOV
+Tumbarumba Police Station and Official Residence 2	66 Winton Street 	Tumbarumba 	Tumbarumba 	SGOV
+Tumut Police Station	20 Wynyard Street 	Tumut 	Tumut 	SGOV
+Ulmarra Police Station	16 River Street 	Ulmarra 	Clarence Valley 	SGOV
+Uralla Police Station and Official Residence 2	7 Hill Street 	Uralla 	Uralla 	SGOV
+Urbenville Police Station	21 Beaury Street 	Urbenville 	Tenterfield 	SGOV
+Victorian Georgian style Police Residence & Lock up	56 Victoria Street 	Berry 	Shoalhaven 	LGOV
+Wallerawang Police Station and Official Residence	17 Tweedie Street 	Wallerawang 	Lithgow 	SGOV
+Wallsend Precinct - Police Station	12 Tyrrell Street 	Wallsend 	Newcastle 	LGOV
+Wanaaring Police Station and Official Residence	 Vicary Street 	Wanaaring 	Bourke 	SGOV
+Waratah Police Station	96 Georgetown Road 	Waratah 	Newcastle 	LGOV
+Waratah Police Station (Former) and Radio Network Services	96 Georgetown Road 	Waratah 	Newcastle 	SGOV
+Wardell Police Station and Official Residence	1 Cedar Street, Corner Bath Street 	Wardell 	Ballina 	SGOV
+Warialda Police Station and Official Residence 2	 Stephen Street, Corner Hope Street 	Warialda 	Gwydir 	SGOV
+Water Police Station (former)	 Goat Island 	Port Jackson 	Unincorporated Waterway 	GAZ
+Watling, formerly Gladesville Police Station	147 Victoria Road 	Gladesville 	Hunters Hill 	GAZ
+Weethalle Police Station and Official Residence	 Cow Street and Railway Street 	Weethalle 	Bland 	SGOV
+Wentworth Police Station	74 Darling Street 	Wentworth 	Wentworth 	SGOV
+Werris Creek Police Station and Official Residence 1	72 Henry Street 	Werris Creek 	Liverpool Plains 	SGOV
+West Kempsey Police Station	4 Sea Street 	West Kempsey 	Kempsey 	SGOV
+West Wyalong Police Station	34 Church Street 	West Wyalong 	Bland 	SGOV
+Wilcannia Police Station	Lot 8 Reid Street 	Wilcannia 	Central Darling 	SGOV
+Windsor Police Station	32-34 Bridge Street, Corner North Street 	Windsor 	Hawkesbury 	SGOV
+Wingham Police Station and Official Residence 1	6 Farquhar Street 	Wingham 	Greater Taree 	SGOV
+Wisemans Ferry Police Station and Official Residence	 Old Northern Road and River Road 	Wisemans Ferry 	Baulkham Hills  	SGOV
+Wollombi Police Station and Official Residence	 Old Northern Road and Wollombi Road 	Wollombi 	Cessnock 	SGOV
+Woodbine	20 Mary Street 	Shellharbour 	Shellharbour 	LGOV
+Woodburn Police Station	89-91 River Street 	Woodburn 	Richmond Valley 	SGOV
+Woodenbong Police Station, Official Residence and Grave	 Unumgar Street 	Woodenbong 	Kyogle 	SGOV
+Woolgoolga Police Station	15 Scarborough Street, Corner 22 Beach Street 	Woolgoolga 	Coffs Harbour  	SGOV
+Wyong Police Station	10-12 Alison Road 	Wyong 	Gosford 	SGOV
+Yamba Police Station	47 Wooli Street 	Yamba 	Clarence Valley 	SGOV
+Yamba Wooli Street Police Station	45 Wooli Street 	Yamba 	Clarence Valley 	LGOV
+Yanco Police Station and Official Residence	37 Main Street 	Yanco 	Leeton 	SGOV
+Yass Police Station	51 Rossi Street 	Yass 	Yass Valley 	SGOV
+Yerong Creek Police Station and Official Residence	21 Plunkett Street 	Yerong Creek 	Lockhart 	SGOV
+Yetman Police Station and Official Residence	 Warialda Street, Corner Campbell Street 	Yetman 	Inverell 	SGOV
+
