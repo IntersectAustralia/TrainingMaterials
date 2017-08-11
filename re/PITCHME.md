@@ -24,24 +24,52 @@ https://xkcd.com/208/
 ### Find and Replace
 
 - Most people will be aware of the *find* and *replace* options of programs such as *Word*.
-- Often we use find to locate the occurrence of a particular word, phrase or number.|
-  - realize|
-  - cookie |
-  - 3.1415927 |
+- Often we use find to locate the occurrence of a particular word, phrase or number.
+  - E.g., _realize_, _cookie_, _3.1415927_
 
 +++
 
 #### Sometimes the objective is…
 
 to find out how many matches there are
-_101 occurrences of "realize"_ |
+    _101 occurrences of "realize"_
 to locate each match and review it in context 
-_"Cookie" occurs before "monster"_ |
+    _"Cookie" occurs before "monster"_
 to replace or substitute that match for something else 
-_"replace 3.1415927 with π"_ |
+    _"replace 3.1415927 with π"_
 
 ---
 
 ### Regular Expressions
 
-Can be used to make *more sophisticated* matches and *more complex* substitutions.
+can be used to make *more sophisticated* matches and *more complex* substitutions.
+
++++
+
+#### You might want to find…
+
+- all the phone numbers or email addresses in a document
+- all the hashtags in a collection of tweets
+- all the words that start with "e" and end in "ed", irrespective of length
+- all words at the end of a line of text
+- "honest" words, like "honor", "honour", "honorable", "honesty", etc.
+
++++
+
+#### Conceptual leap
+
+Note this leap from looking for a literal match ("#auspol") to matching a pattern
+
+All things that look like a hashtag; a # character followed by alphanumeric characters
+
++++
+
+#### Not machine learning
+
+Regular expressions are not an example of machine learning
+
+You need to specify the pattern – the rule that matches what you want, and only what you want
+
+This is sometimes challenging, and occasionally impossible*
+
+*without more sophisticated tools |
