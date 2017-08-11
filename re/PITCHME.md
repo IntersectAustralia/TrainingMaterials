@@ -34,9 +34,15 @@ https://xkcd.com/208/ CC BY NC
 #### Sometimes the objective is…
 
 - to find out *how many* matches there are
+
 - to *locate* each match and *review* it in context |
+
 - to *replace* or *substitute* that match for something else |
+   
    - E.g.:
+   
    - 101 occurrences of _realize_ |
+   
    - replace _cookie_ with _biscuit_ |
+   
    - replace _3.1415927_ with _π_ |
