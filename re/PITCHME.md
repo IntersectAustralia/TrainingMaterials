@@ -62,14 +62,50 @@ Note this leap from looking for a literal match ("#auspol") to matching a patter
 
 All things that look like a hashtag; a # character followed by alphanumeric characters
 
+
+
+---
+
+## Regexes are: 
+
+### Everywhere!
+
+You can use regular expressions (regexes) in:
+- Most good text editors:
+   - TextWrangler, Notepad++, Jedit, Vim, Sublime Text…
+- Google Spreadsheets
+- Microsoft Word (a reduced set anyway)
+- Open Refine
+- Command Line programs
+   - sed, grep…
+- Programming languages
+   - Perl, Python, Ruby, R…
+- Online sandpits
+
 +++
 
-#### Not machine learning
+## Regexes are: 
+### Very old
 
-Regular expressions are not an example of machine learning
+- Developed in 1950s
+- Based on characters in basic set 
+    -what's available on a keyboard
+- Many extensions since then
+- Some variation in syntax between implementations
 
-You need to specify the pattern – the rule that matches what you want, and only what you want
++++
 
-This is sometimes challenging, and occasionally impossible*
+## Regexes are: 
+### Frustrating
 
-*without more sophisticated tools |
+- Syntax is easily forgotten
+- Some matches might not be possible
+
++++
+
+## Regexes are: 
+### Not machine learning
+
+- Regular expressions are not an example of machine learning
+- You need to specify the pattern – the rule – that matches what you want, and _only_ what you want
+- This is sometimes challenging, and occasionally impossible
