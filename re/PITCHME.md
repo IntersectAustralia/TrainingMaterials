@@ -66,9 +66,10 @@ All things that look like a hashtag; a # character followed by alphanumeric char
 
 ---
 
-## Regexes are: 
+## Regexes are… 
 
-### Everywhere!
++++
+### …Everywhere!
 
 You can use regular expressions (regexes) in:
 - Most good text editors:
@@ -84,8 +85,7 @@ You can use regular expressions (regexes) in:
 
 +++
 
-## Regexes are: 
-### Very old
+### …Very old
 
 - Developed in 1950s
 - Based on characters in basic set 
@@ -95,16 +95,14 @@ You can use regular expressions (regexes) in:
 
 +++
 
-## Regexes are: 
-### Frustrating
+### …Frustrating
 
 - Syntax is easily forgotten
 - Some matches might not be possible
 
 +++
 
-## Regexes are: 
-### Not machine learning
+### …Not machine learning
 
 - Regular expressions are not an example of machine learning
 - You need to specify the pattern – the rule – that matches what you want, and _only_ what you want
