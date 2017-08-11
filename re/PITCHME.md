@@ -66,44 +66,88 @@ All things that look like a hashtag; a # character followed by alphanumeric char
 
 ---
 
-## Regexes are… 
+### Regexes are… 
 
 +++
-### …Everywhere!
+#### …Everywhere!
 
-You can use regular expressions (regexes) in:
-- Most good text editors:
-   - TextWrangler, Notepad++, Jedit, Vim, Sublime Text…
+- Most good text editors, TextWrangler, Notepad++, Jedit, Vim…
 - Google Spreadsheets
 - Microsoft Word (a reduced set anyway)
 - Open Refine
-- Command Line programs
-   - sed, grep…
-- Programming languages
-   - Perl, Python, Ruby, R…
+- Command Line programs, sed, grep…
+- Programming languages, Perl, Python, Ruby, R…
 - Online sandpits
 
 +++
 
-### …Very old
+#### …Very old
 
 - Developed in 1950s
 - Based on characters in basic set 
-    -what's available on a keyboard
 - Many extensions since then
 - Some variation in syntax between implementations
 
 +++
 
-### …Frustrating
+#### …Frustrating
 
 - Syntax is easily forgotten
 - Some matches might not be possible
 
 +++
 
-### …Not machine learning
+#### …Not machine learning
 
 - Regular expressions are not an example of machine learning
 - You need to specify the pattern – the rule – that matches what you want, and _only_ what you want
 - This is sometimes challenging, and occasionally impossible
+
++++
+
+#### …Powerful!
+
+- Once you learn them, you will see applications everywhere
+
+---
+
+### So!
+
+Let's get started!
+
++++
+
+#### Exercise 1: Avian Internet
+
+- RegExr
+   - http://www.regexr.com
+- RFC2549
+   - http://bit.ly/1MLmg7C
+
++++
+
+#### Exercise 2: To die upon a kiss
+
+- RegExr
+   - http://www.regexr.com
+- Full text of Othello
+   - http://bit.ly/1tKfAMW
+
++++
+
+#### Exercise 3: Substituting names
+
+- RegExr
+   - http://www.regexr.com
+- Random name generator
+   - http://bit.ly/1MLmknO
+
++++
+
+#### Exercise 5: Reformatting dates
+
+- RegExr
+   - http://www.regexr.com
+- Dates in American History
+   - https://goo.gl/35lQXi
+
