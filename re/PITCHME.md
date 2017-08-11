@@ -35,7 +35,7 @@ https://xkcd.com/208/ CC BY NC
 
 - to find out *how many* matches there are
 
-- to *locate* each match and *review* it in context |
+- to locate each match and review it in context |
 
 - to *replace* or *substitute* that match for something else |
    
