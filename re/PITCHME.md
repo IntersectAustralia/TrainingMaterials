@@ -151,3 +151,31 @@ Let's get started!
 - Dates in American History
    - https://goo.gl/35lQXi
 
+---
+
+## Summing up
+
++++
+
+### We have seen that…
+
+- Regular expressions are a powerful means of matching patterns in text
+- This is very useful for analysing and modifying unstructured text
+- This is also useful in working with structured text, html, xml, csv…
+
++++
+
+### Next steps
+
+- Find out how to use regular expressions with your data
+- Look out for regular expression options in your text editor's search and replace function
+- Search the internet for "regular expressions cheat sheet" and grab a copy of one that you like
+
+---
+
+### Thank you for attending!
+
+- Please complete our course survey: http://svy.mk/18c8dHa
+- Get in contact with us if you have questions: [training@intersect.org.au](mailto:training@intersect.org.au)
+- Join Intersect's Training mailing list for info on upcoming courses:
+   - Send an email to [learn+subscribe@intersect.org.au](mailto:learn+subscribe@intersect.org.au)
