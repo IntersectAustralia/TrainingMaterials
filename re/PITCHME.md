@@ -15,17 +15,17 @@
 
 ---
 
-![Logo](https://imgs.xkcd.com/comics/regularexpressions.png)
+![Logo](https://imgs.xkcd.com/comics/regular_expressions.png)
 
-https://xkcd.com/208/ CC BY NC
+https://xkcd.com/208/
 
 ---
 
 ### Find and Replace
 
 - Most people will be aware of the *find* and *replace* options of programs such as *Word*.
-- Often we use *find* to locate the occurrence of a particular word, phrase or number.
-  - realize
+- Often we use find to locate the occurrence of a particular word, phrase or number.|
+  - realize|
   - cookie |
   - 3.1415927 |
 
@@ -34,11 +34,11 @@ https://xkcd.com/208/ CC BY NC
 #### Sometimes the objective is…
 
 - to find out how many matches there are
+   _101 occurrences of "realize"_ |
 - to locate each match and review it in context |
+   _"Cookie" occurs before "monster"_ |
 - to replace or substitute that match for something else |
-   - 101 occurrences of realize|
-   - replace cookie with biscuit |
-   - replace 3.1415927 with π |
+   _"replace 3.1415927 with π"_ |
 
 ---
 
