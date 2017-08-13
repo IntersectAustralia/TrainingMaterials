@@ -55,7 +55,7 @@ Intersect is an eResearch company. eResearch is the delivery of specialist IT to
 
 ## Training
 
-![matrix](assets/matrix.png)
+![matrix](assets/matrix.png) <!-- .element: class="fragment" -->
 
 +++
 
