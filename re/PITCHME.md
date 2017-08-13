@@ -100,8 +100,8 @@ All things that look like a hashtag; a # character followed by alphanumeric char
 #### …Not machine learning
 
 - Regular expressions are not an example of machine learning
-- You need to specify the pattern – the rule – that matches what you want, and _only_ what you want
-- This is sometimes challenging, and occasionally impossible
+- You need to specify the pattern – the rule – that matches what you want, and _only_ what you want <!-- .element: class="fragment" -->
+- This is sometimes challenging, and occasionally impossible <!-- .element: class="fragment" -->
 
 +++
 
