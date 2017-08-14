@@ -73,8 +73,7 @@ Intersect is an eResearch company. eResearch is the delivery of specialist IT to
 
 +++
 
-![unix](unix/unix_tile.jpg)
-![re](re/re_tile.jpg)
+<img src="unix/unix_tile.jpg" alt="Unix" style="position: relative; left: 20%" width="100"/>
 
 +++
 
