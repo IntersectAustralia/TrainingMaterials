@@ -59,28 +59,15 @@ Intersect is an eResearch company. eResearch is the delivery of specialist IT to
 
 +++
 
-### Data Courses
+### Data courses
 
-<ul>
-<li>Research Data Management Techniques</li>
-<li>Data Visualisation with Google Fusion Tables</li>
-<li>Cleaning and Exploring your Data with Open Refine</li>
-<li>Excel Fu: Excel for Researchers</li>
-<li>Powerful Text Searching and Matching with Regular Expressions</li>
-<li>Regular Expressions on Command</li>
-<li>Managing Data Capture and Surveys with REDCap</li>
-</ul>
-
-+++
-<h3 style="transform: rotate(-90deg); transform-origin: left top 0">Data</h3>
-
-<img src="rdmt/rdmt_tile.jpg" alt="rdmt" style="position: fixed; left: 0%; top: 10%" width="280"/><!-- .element: class="fragment" -->
-<img src="gft/gft_tile.jpg" alt="gft" style="position: fixed; left: 50%; top: 10%; margin-left: -150px" width="280"/><!-- .element: class="fragment" -->
-<img src="or/or_tile.jpg" alt="or" style="position: fixed; right: 0%; top: 10%" width="280"/><!-- .element: class="fragment" -->
-<img src="excel/excel_tile.jpg" alt="excel" style="position: fixed; left: 0%; top: 50%; margin-top: -70px" width="280"/><!-- .element: class="fragment" -->
-<a href="?p=re"><img src="re/re_tile.jpg" alt="re" style="position: fixed; left: 50%; top: 50%; margin-top: -60px; margin-left: -150px" width="280"/></a><!-- .element: class="fragment" -->
-<img src="reoc/reoc_tile.jpg" alt="reoc" style="position: fixed; right: 0%; top: 50%; margin-top: -70px" width="280"/><!-- .element: class="fragment" -->
-<img src="redcap/redcap_tile.jpg" alt="redcap" style="position: fixed; left: 50%; bottom: 10%; margin-left: -150px" width="280"/><!-- .element: class="fragment" -->
+<img src="rdmt/rdmt_tile.jpg" alt="rdmt" style="position: fixed; left: 0%; top: 20%" width="280"/><!-- .element: class="fragment" -->
+<img src="gft/gft_tile.jpg" alt="gft" style="position: fixed; left: 50%; top: 20%; margin-left: -150px" width="280"/><!-- .element: class="fragment" -->
+<img src="or/or_tile.jpg" alt="or" style="position: fixed; right: 0%; top: 20%" width="280"/><!-- .element: class="fragment" -->
+<img src="excel/excel_tile.jpg" alt="excel" style="position: fixed; left: 0%; top: 60%; margin-top: -70px" width="280"/><!-- .element: class="fragment" -->
+<img src="re/re_tile.jpg" alt="re" style="position: fixed; left: 50%; top: 60%; margin-top: -60px; margin-left: -150px" width="280"><!-- .element: class="fragment" -->
+<img src="reoc/reoc_tile.jpg" alt="reoc" style="position: fixed; right: 0%; top: 60%; margin-top: -70px" width="280"/><!-- .element: class="fragment" -->
+<img src="redcap/redcap_tile.jpg" alt="redcap" style="position: fixed; left: 50%; bottom: 0%; margin-left: -150px" width="280"/><!-- .element: class="fragment" -->
 
 +++
 
