@@ -10,9 +10,9 @@ Regular Expressions are a powerful means of searching and manipulating text-base
 To recap:
 
 <ul>
-<li><pre>\w</pre> matches any alphanumeric character</li><!-- .element: class="fragment" -->
-<li><pre>\b</pre> matches the a word boundary position</li><!-- .element: class="fragment" -->
-<li><pre>x+</pre> matches one or more instances of <em>x</em></li><!-- .element: class="fragment" -->
+<li><\w matches any alphanumeric character</li><!-- .element: class="fragment" -->
+<li>\b matches the a word boundary position</li><!-- .element: class="fragment" -->
+<li>x+ matches one or more instances of <em>x</em></li><!-- .element: class="fragment" -->
 </ul>
 
 <p>For full details, find and download a Regex cheat sheet!</p><!-- .element: class="fragment" -->
