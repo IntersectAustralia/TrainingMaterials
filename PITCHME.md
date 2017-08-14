@@ -77,7 +77,7 @@ Intersect is an eResearch company. eResearch is the delivery of specialist IT to
 <img src="gft/gft_tile.jpg" alt="gft" style="position: fixed; left: 50%; top: 10%; margin-left: -100px" width="200"/>
 <img src="or/or_tile.jpg" alt="or" style="position: fixed; right: 0%; top: 10%" width="200"/>
 <img src="excel/excel_tile.jpg" alt="excel" style="position: fixed; left: 0%; top: 50%; margin-top: -60px" width="200"/>
-<img src="re/re_tile.jpg" alt="re" style="position: fixed; left: 50%; top: 50%; margin-top: -60px; margin-left: -100px" width="200"/>
+<a href="?p=re"><img src="re/re_tile.jpg" alt="re" style="position: fixed; left: 50%; top: 50%; margin-top: -60px; margin-left: -100px" width="200"/></a>a>
 <img src="reoc/reoc_tile.jpg" alt="reoc" style="position: fixed; right: 0%; top: 50%; margin-top: -60px" width="200"/>
 <img src="redcap/redcap_tile.jpg" alt="redcap" style="position: fixed; left: 50%; bottom: 10%; margin-left: -100px" width="200"/>
 
