@@ -23,20 +23,25 @@ https://xkcd.com/208/
 
 ### Find and Replace
 
-- Most people will be aware of the *find* and *replace* options of programs such as *Word*.
-- Often we use find to locate the occurrence of a particular word, phrase or number.
-  - E.g., _realize_, _cookie_, _3.1415927_
-
+<ul>
+<li>Most people will be aware of the <strong>find</strong> and <strong>replace</strong> options of programs such as <em>Word</em>.</li>
+<li>Often we use find to <strong>locate</strong> the occurrence of a particular word, phrase or number.</li>
+<ul>
+<li><em>realize</em></li><!-- .element: class=<em>fragment</em> -->
+<li><em>cookie</em></li><!-- .element: class=<em>fragment</em> -->
+<li><em>3.1415927</em></li><!-- .element: class=<em>fragment</em> -->
+</ul>
+</ul>
 +++
 
 #### Sometimes the objective is…
 <ul>
 <li>to find out how many matches there are</li>
-    <ul><li>e.g., _101 occurrences of "realize"_</li></ul><!-- .element: class="fragment" -->
+    <ul><li>101 occurrences of <em>realize</em></li></ul><!-- .element: class=<em>fragment</em> -->
 <li>to locate each match and review it in context</li> 
-    <ul><li>_"Cookie" occurs before "monster"_</li></ul><!-- .element: class="fragment" -->
+    <ul><li><em>cookie</em> occurs before <em>monster</em></li></ul><!-- .element: class=<em>fragment</em> -->
 <li>to replace or substitute that match for something else</li>
-    <ul><li>_"replace 3.1415927 with π"_</li></ul><!-- .element: class="fragment" -->
+    <ul><li><em>replace 3.1415927 with π</em></li></ul><!-- .element: class=<em>fragment</em> -->
 </ul>
 
 ---
@@ -48,18 +53,18 @@ can be used to make *more sophisticated* matches and *more complex* substitution
 +++
 
 #### You might want to find…
-
-- all the phone numbers or email addresses in a document
-- all the hashtags in a collection of tweets
-- all the words that start with "e" and end in "ed", irrespective of length
-- all words at the end of a line of text
-- "honest" words, like "honor", "honour", "honorable", "honesty", etc.
-
+<ul>
+<li>all the phone numbers or email addresses in a document</li><!-- .element: class=<em>fragment</em> -->
+<li>all the hashtags in a collection of tweets</li><!-- .element: class=<em>fragment</em> -->
+<li>all the words that start with <em>e</em> and end in <em>ed</em>, irrespective of length</li><!-- .element: class=<em>fragment</em> -->
+<li>all words at the end of a line of text</li><!-- .element: class=<em>fragment</em> -->
+<li><em>honest</em> words, like <em>honor</em>, <em>honour</em>, <em>honorable</em>, <em>honesty</em>, etc.</li><!-- .element: class=<em>fragment</em> -->
+</ul>
 +++
 
 #### Conceptual leap
 
-Note this leap from looking for a literal match ("#auspol") to matching a pattern
+Note the leap from looking for a literal match (<em>#auspol</em>) to matching a pattern
 
 All things that look like a hashtag; a # character followed by alphanumeric characters
 
@@ -71,39 +76,39 @@ All things that look like a hashtag; a # character followed by alphanumeric char
 
 +++
 #### …Everywhere!
-
-- Most good text editors, TextWrangler, Notepad++, Jedit, Vim…
-- Google Spreadsheets
-- Microsoft Word (a reduced set anyway)
-- Open Refine
-- Command Line programs, sed, grep…
-- Programming languages, Perl, Python, Ruby, R…
-- Online sandpits
-
+<ul>
+<li>Most good text editors, TextWrangler, Notepad++, Jedit, Vim…</li><!-- .element: class="fragment" -->
+<li>Google Spreadsheets</li><!-- .element: class="fragment" -->
+<li>Microsoft Word (a reduced set anyway)</li><!-- .element: class="fragment" -->
+<li>Open Refine</li><!-- .element: class="fragment" -->
+<li>Command Line programs, sed, grep…</li><!-- .element: class="fragment" -->
+<li>Programming languages, Perl, Python, Ruby, R…</li><!-- .element: class="fragment" -->
+<li>Online sandpits</li><!-- .element: class="fragment" -->
+</ul>
 +++
 
 #### …Very old
-
-- Developed in 1950s
-- Based on characters in basic set 
-- Many extensions since then
-- Some variation in syntax between implementations
-
+<ul>
+<li>Developed in 1950s</li><!-- .element: class="fragment" -->
+<li>Based on characters in basic set </li><!-- .element: class="fragment" -->
+<li>Many extensions since then</li><!-- .element: class="fragment" -->
+<li>Some variation in syntax between implementations</li><!-- .element: class="fragment" -->
+</ul>
 +++
 
 #### …Frustrating
-
-- Syntax is easily forgotten
-- Some matches might not be possible
-
+<ul>
+<li>Syntax is easily forgotten</li><!-- .element: class="fragment" -->
+<li>Some matches might not be possible</li><!-- .element: class="fragment" -->
+</ul>
 +++
 
 #### …Not machine learning
 
 <ul>
-<li>Regular expressions are not an example of machine learning</li>
-<li>You need to specify the pattern – the rule – that matches what you want, and _only_ what you want</li> <!-- .element: class="fragment" -->
-<li>This is sometimes challenging, and occasionally impossible</li> <!-- .element: class="fragment" -->
+<li>Regular expressions are not an example of machine learning</li><!-- .element: class="fragment" -->
+<li>You need to specify the pattern – the rule – that matches what you want, and <em>only</em> what you want</li> <!-- .element: class=<em>fragment</em> -->
+<li>This is sometimes challenging, and occasionally impossible</li> <!-- .element: class=<em>fragment</em> -->
 </ul>
 
 +++
@@ -161,24 +166,26 @@ Let's get started!
 +++
 
 ### We have seen that…
-
-- Regular expressions are a powerful means of matching patterns in text
-- This is very useful for analysing and modifying unstructured text
-- This is also useful in working with structured text, html, xml, csv…
+<ul>
+<li>Regular expressions are a powerful means of matching patterns in text data</li><!-- .element: class="fragment" -->
+<li>Regular expressions allow you to perform complex pattern substitutions</li><!-- .element: class="fragment" -->
+<li>This is very useful for analysing and modifying unstructured text</li><!-- .element: class="fragment" -->
+<li>This is also useful in working with structured text: html, xml, csv…</li><!-- .element: class="fragment" -->
+</ul>
 
 +++
 
 ### Next steps
-
-- Find out how to use regular expressions with your data
-- Look out for regular expression options in your text editor's search and replace function
-- Search the internet for "regular expressions cheat sheet" and grab a copy of one that you like
-
+<ul>
+<li>Find out how to use regular expressions with your data</li><!-- .element: class="fragment" -->
+<li>Look out for regular expression options in your text editor's search and replace function</li><!-- .element: class="fragment" -->
+<li>Search the internet for <em>regular expressions cheat sheet</em> and grab a copy of one that you like</li><!-- .element: class="fragment" -->
+</ul>
 ---
 
 ### Thank you for attending!
 
-- Please complete our course survey: http://svy.mk/18c8dHa
+- Please complete our course survey: [svy.mk/18c8dHa](http://svy.mk/18c8dHa)
 - Get in contact with us if you have questions: [training@intersect.org.au](mailto:training@intersect.org.au)
 - Join Intersect's Training mailing list for info on upcoming courses:
    - Send an email to [learn+subscribe@intersect.org.au](mailto:learn+subscribe@intersect.org.au)
