@@ -1,4 +1,4 @@
-## Powerful text searching and matching with Regular Expressions
+## Powerful text searching and matching with<br /><a>Regular Expressions</a>
 
 ---
 
@@ -48,7 +48,15 @@ https://xkcd.com/208/
 
 ### Regular Expressions
 
-can be used to make *more sophisticated* matches and *more complex* substitutions.
+can be used to make <strong>more sophisticated</strong> matches and <strong>more complex</strong> substitutions
+
+using patterns constructed from <strong>metacharacters</strong> to stand for various types and combinations of text data
+
+<ul>
+<li><em>\w</em> means any letter or number</li><!-- .element: class="fragment" -->
+<li><em>\d</em> means any digit</li><!-- .element: class="fragment" -->
+<li><em>\s</em> meams any whitespace character: space, tab or newline</li><!-- .element: class="fragment" -->
+</ul>
 
 +++
 
