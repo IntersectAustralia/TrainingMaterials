@@ -1,4 +1,4 @@
-# Intersect training
+# Intersect Training
 
 ---
 
@@ -61,13 +61,42 @@ Intersect is an eResearch company. eResearch is the delivery of specialist IT to
 
 ### Data Courses
 
+<ul>
+<li>Research Data Management Techniques</li>
+<li>Data Visualisation with Google Fusion Tables</li>
+<li>Cleaning and Exploring your Data with Open Refine</li>
+<li>Excel Fu: Excel for Researchers</li>
+<li>Powerful Text Searching and Matching with Regular Expressions</li>
+<li>Regular Expressions on Command</li>
+<li>Managing Data Capture and Surveys with REDCap</li>
+</ul>
+
++++
+
+![unix](unix/unix_tile.jpg)
+![re](re/re_tile.jpg)
+
 +++
 
 ### Software Courses
+
+<ul>
+	<li>Introduction to Unix</li>
+	<li>Introduction to Programming in Python</li>
+	<li>Introduction to Programming in R</li>
+	<li>Introduction to Programming in MATLAB</li>
+	<li>Introduction to Version Control with Git</li>
+	<li>Using Databases & SQL</li>
+</ul>
 
 +++
 
 ### Compute Courses
 
-+++
+<ul>
+	<li>High-Performance Computing</li>
+	<li>Parallel Programming for HPC</li>
+</ul>
+
++++	
 
