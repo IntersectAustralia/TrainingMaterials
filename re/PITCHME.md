@@ -30,13 +30,14 @@ https://xkcd.com/208/
 +++
 
 #### Sometimes the objective is…
-
-to find out how many matches there are
-    _101 occurrences of "realize"_
-to locate each match and review it in context 
-    _"Cookie" occurs before "monster"_
-to replace or substitute that match for something else 
-    _"replace 3.1415927 with π"_
+<ul>
+<li>to find out how many matches there are</li>
+    <ul><li>e.g., _101 occurrences of "realize"_</li></ul><!-- .element: class="fragment" -->
+<li>to locate each match and review it in context</li> 
+    <ul><li>_"Cookie" occurs before "monster"_</li></ul><!-- .element: class="fragment" -->
+<li>to replace or substitute that match for something else</li>
+    <ul><li>_"replace 3.1415927 with π"_</li></ul><!-- .element: class="fragment" -->
+</ul>
 
 ---
 
@@ -99,9 +100,11 @@ All things that look like a hashtag; a # character followed by alphanumeric char
 
 #### …Not machine learning
 
-- Regular expressions are not an example of machine learning
-- You need to specify the pattern – the rule – that matches what you want, and _only_ what you want <!-- .element: class="fragment" -->
-- This is sometimes challenging, and occasionally impossible <!-- .element: class="fragment" -->
+<ul>
+<li>Regular expressions are not an example of machine learning</li>
+<li>You need to specify the pattern – the rule – that matches what you want, and _only_ what you want</li> <!-- .element: class="fragment" -->
+<li>This is sometimes challenging, and occasionally impossible</li> <!-- .element: class="fragment" -->
+</ul>
 
 +++
 
