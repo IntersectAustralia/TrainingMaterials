@@ -107,8 +107,8 @@ All things that look like a hashtag; a # character followed by alphanumeric char
 
 <ul>
 <li>Regular expressions are not an example of machine learning</li><!-- .element: class="fragment" -->
-<li>You need to specify the pattern – the rule – that matches what you want, and <em>only</em> what you want</li> <!-- .element: class=<em>fragment</em> -->
-<li>This is sometimes challenging, and occasionally impossible</li> <!-- .element: class=<em>fragment</em> -->
+<li>You need to specify the pattern – the rule – that matches what you want, and <em>only</em> what you want</li><!-- .element: class=<em>fragment</em> -->
+<li>This is sometimes challenging, and occasionally impossible</li><!-- .element: class=<em>fragment</em> -->
 </ul>
 
 +++
