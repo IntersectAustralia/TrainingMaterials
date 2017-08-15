@@ -55,27 +55,28 @@ Intersect is an eResearch company. eResearch is the delivery of specialist IT to
 
 ## Training
 
+We run training courses at all our member universities. We have trained:
+
+<ul>
+    <li><strong>6800</strong> researchers</li>
+    <li>in <strong>650</strong> courses</li>
+    <li>at <strong>14</strong> universities</li>
+    <li>across <strong>4</strong> states and territories</li>
+</ul>
 
 +++
 
 ### Data courses
-<table>
-<tr>
-<td><img src="rdmt/rdmt_tile.jpg" alt="rdmt" width="280"/><!-- .element: class="fragment" --></td>
-<td><img src="gft/gft_tile.jpg" alt="gft" width="280"/><!-- .element: class="fragment" --></td>
-<td><img src="or/or_tile.jpg" alt="or" width="280"/><!-- .element: class="fragment" --></td>
-</tr>
-<tr>
-<td><img src="excel/excel_tile.jpg" alt="excel" width="280"/><!-- .element: class="fragment" --></td>
-<td><img src="re/re_tile.jpg" alt="re" width="280"><!-- .element: class="fragment" --></td>
-<td><img src="reoc/reoc_tile.jpg" alt="reoc" width="280"/><!-- .element: class="fragment" --></td>
-</tr>
-<tr>
-<td></td>
-<td><img src="redcap/redcap_tile.jpg" alt="redcap" width="280"/><!-- .element: class="fragment" --></td>
-<td></td>
-</tr>
-</table>
+
+<ul>
+    <li>Research Data Management Techniques</li>
+    <li>Introduction to Data Visualisation with Google Fusion Tables</li>
+    <li>Cleaning and Exploring your Data with Open Refine</li>
+    <li>Excel for Researchers</li>
+    <li>Powerful Text Searching and Matching with Regular Expressions</li>
+    <li>Regular Expressions on Command</li>
+    <li>Managing Data Capture and Surveys with REDCap</li>
+</ul>
 +++
 
 ### Software Courses
