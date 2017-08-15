@@ -1,23 +1,11 @@
+## Powerful Text Searching and Matching with
+# <b>Regular Expressions</b>
+
 ---?include=assets/training_introduction.md
----
-
-## Powerful text searching and matching with<br /><a>Regular Expressions</a>
 
 ---
 
-### General Introduction
-
-- Intersect (http://intersect.org.au)
-   - Who are we?
-   - Your trainers
-- Your University IT Contacts
-- General Housekeeping
-   - Toilets
-   - Coffee and water facilities
-   - Emergency exits
-
----
-
+## Regular Expressions
 ![Logo](https://imgs.xkcd.com/comics/regular_expressions.png)
 
 https://xkcd.com/208/
@@ -56,9 +44,9 @@ can be used to make <strong>more sophisticated</strong> matches and <strong>more
 using patterns constructed from <strong>metacharacters</strong> to stand for various types and combinations of text data
 
 <ul>
-<li><em>\w</em> means any letter or number</li><!-- .element: class="fragment" -->
-<li><em>\d</em> means any digit</li><!-- .element: class="fragment" -->
-<li><em>\s</em> meams any whitespace character: space, tab or newline</li><!-- .element: class="fragment" -->
+<li>\w matches any alphanumeric character</li><!-- .element: class="fragment" -->
+<li>\b matches the a word boundary position</li><!-- .element: class="fragment" -->
+<li>x+ matches one or more instances of <em>x</em></li><!-- .element: class="fragment" -->
 </ul>
 
 +++
@@ -73,13 +61,12 @@ using patterns constructed from <strong>metacharacters</strong> to stand for var
 </ul>
 +++
 
-#### Conceptual leap
+#### From literal matching to pattern matching
 
-Note the leap from looking for a literal match (<em>#auspol</em>) to matching a pattern
+Note the leap from looking for a literal match (<em>#auspol</em>, <em>(555) 3226</em>em>) to matching a pattern, for example:
 
-All things that look like a hashtag; a # character followed by alphanumeric characters
-
-
+- A # character followed by any number of alphanumeric characters but no spaces or punctuation |
+- A collection of digits in blocks of two, three or four, separated by spaces, the first block sometimes in parentheses |
 
 ---
 
@@ -109,7 +96,8 @@ All things that look like a hashtag; a # character followed by alphanumeric char
 
 #### …Frustrating
 <ul>
-<li>Syntax is easily forgotten</li><!-- .element: class="fragment" -->
+<li>Syntax is cryptic, and easily forgotten</li><!-- .element: class="fragment" -->
+<li><em>\w</em>, meaning a 'word' character, also includes numbers!</li><!-- .element: class="fragment" -->
 <li>Some matches might not be possible</li><!-- .element: class="fragment" -->
 </ul>
 +++
@@ -119,14 +107,15 @@ All things that look like a hashtag; a # character followed by alphanumeric char
 <ul>
 <li>Regular expressions are not an example of machine learning</li><!-- .element: class="fragment" -->
 <li>You need to specify the pattern – the rule – that matches what you want, and <em>only</em> what you want</li><!-- .element: class="fragment" -->
-<li>This is sometimes challenging, and occasionally impossible</li><!-- .element: class="fragment" -->
+<li>Often requires continual refining through trial and error until you find the right pattern</li><!-- .element: class="fragment" -->
 </ul>
 
 +++
 
 #### …Powerful!
 
-- Once you learn them, you will see applications everywhere
+- Once you learn them, you will see applications everywhere |
+- You will have far greater control over your textual data |
 
 ---
 
@@ -141,7 +130,7 @@ Let's get started!
 - RegExr
    - http://www.regexr.com
 - RFC2549
-   - http://bit.ly/1MLmg7C
+   - [bit.ly/1MLmg7C](http://bit.ly/1MLmg7C)
 
 +++
 
@@ -150,7 +139,7 @@ Let's get started!
 - RegExr
    - http://www.regexr.com
 - Full text of Othello
-   - http://bit.ly/1tKfAMW
+   - [bit.ly/1tKfAMW](http://bit.ly/1tKfAMW)
 
 +++
 
@@ -159,16 +148,16 @@ Let's get started!
 - RegExr
    - http://www.regexr.com
 - Random name generator
-   - http://bit.ly/1MLmknO
+   - [bit.ly/1MLmknO](http://bit.ly/1MLmknO)
 
 +++
 
-#### Exercise 5: Reformatting dates
+#### Exercise 4: Reformatting dates
 
 - RegExr
    - http://www.regexr.com
 - Dates in American History
-   - https://goo.gl/35lQXi
+   - [goo.gl/35lQXi](https://goo.gl/35lQXi)
 
 ---
 
@@ -192,11 +181,5 @@ Let's get started!
 <li>Look out for regular expression options in your text editor's search and replace function</li><!-- .element: class="fragment" -->
 <li>Search the internet for <em>regular expressions cheat sheet</em> and grab a copy of one that you like</li><!-- .element: class="fragment" -->
 </ul>
----
 
-### Thank you for attending!
-
-- Please complete our course survey: [svy.mk/18c8dHa](http://svy.mk/18c8dHa)
-- Get in contact with us if you have questions: [training@intersect.org.au](mailto:training@intersect.org.au)
-- Join Intersect's Training mailing list for info on upcoming courses:
-   - Send an email to [learn+subscribe@intersect.org.au](mailto:learn+subscribe@intersect.org.au)
+---?include=assets/closing.md

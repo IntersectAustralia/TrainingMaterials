@@ -3,6 +3,7 @@
 
 ---?include=assets/training_introduction.md
 
+---
 ## Introduction
 
 Regular Expressions are a powerful means of searching and manipulating text-based data, using metacharacters to match the contents of text files, and optionally use those matches to perform replacements.
@@ -19,7 +20,7 @@ For full details, find and download a Regex cheat sheet!<!-- .element: class="fr
 
 ### Introduction
 
-This course will show you how to combine your knowledge of regular expressions with four powerful command line utilities that have support regular expressions.
+This course will show you how to combine your knowledge of regular expressions with four powerful command line utilities that support regular expressions.
 
 Here are some common tasks you might want to perform…
 
@@ -70,10 +71,10 @@ If your needs exceed the capabilities of these tools, you probably need to use a
 
 ## <span style="font-family: Courier, monospace; background-color: red; color: white">find</span>
 
-Find is a powerful tool for finding files and directories.
+`find` is a powerful tool for finding files and directories.
 Once found, matching files can be:
 
-- printed out to the screen (kind of like ls)
+- printed out to the screen (kind of like `ls`)
 - passed to another program for further processing
 - deleted (dangerous!)
 
@@ -81,19 +82,17 @@ Once found, matching files can be:
 
 ## <span style="font-family: Courier, monospace; background-color: red; color: white">find</span> vs <span style="font-family: Courier, monospace">ls</span>
 
-- find is in many ways more complex and more powerful than ls.
-- find will by default search all directories below the specified directory (it is recursive). 
-- ls will only list the specified directory by default.
-- find is convenient for building a workflow, by allowing you to run a command for each found file.
+- `find` is in many ways more complex and more powerful than `ls`.
+- `find` will by default search all directories below the specified directory (it is recursive). 
+- `ls` will only list the specified directory by default.
+- `find` is convenient for building a workflow, by allowing you to run a command for each found file.
  
 +++ 
 
 ### Example 1
 #### Discover a directory structure
 
-```bash
-find data/
-```
+`find data/`
 
 - List all files and directories within the `data/` directory.
 
@@ -107,6 +106,7 @@ In order to trim down the list we need to give find some criteria.
 
 find allows us to set criteria based on most characteristics of files:
 
+<small>
 - <strong>Type</strong> (e.g. file or directory)
 - <strong>Name</strong> (what is it called)
 - <strong>Path</strong> (where is it located)
@@ -114,6 +114,7 @@ find allows us to set criteria based on most characteristics of files:
 - Size (empty or some number of bytes)
 - Ownership (which user owns it and to which group does it belong?)
 - Depth (how many directories deep is it)
+</small>
 
 Let's look at some of the most important ones (highlighted above)…
 
@@ -122,9 +123,7 @@ Let's look at some of the most important ones (highlighted above)…
 ### Example 2
 #### Show only directories
 
-```bash
-find data/ -type d
-```
+`find data/ -type d`
 
 - List all directories contained within the `data/` directory.
 
@@ -135,17 +134,15 @@ find data/ -type d
 ### Example 3
 #### Show only files
 
-```bash
-find data/ -type f
-```
+`find data/ -type f`
 
 - List all files contained within the `data/` directory. 
 - Directories are now excluded from the list.
 
 - But how many files do we have?
 
-```bash
-find data/ -type f | wc -l
-```
+`find data/ -type f | wc -l`
 
 <em>That's a lower-case L, not the number 1!</em>
+
+---?include=assets/closing.md
