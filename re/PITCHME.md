@@ -1,3 +1,6 @@
+---?include=assets/training_introduction.md
+---
+
 ## Powerful text searching and matching with<br /><a>Regular Expressions</a>
 
 ---
