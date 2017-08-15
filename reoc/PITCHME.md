@@ -102,21 +102,19 @@ Once found, matching files can be:
 
 ### Criteria
 
-In order to trim down the list we need to give find some criteria.
+`find` allows us to set criteria based on most characteristics of files:
 
-find allows us to set criteria based on most characteristics of files:
+<ul style="font-size: 0.6em;">
+<li><strong>Type</strong> (e.g. file or directory)</li>
+<li><strong>Name</strong> (what is it called)</li>
+<li><strong>Path</strong> (where is it located)</li>
+<li>Time stamps  (creation, last modification, last access)</li>
+<li>Size (empty or some number of bytes)</li>
+<li>Ownership (which user owns it and to which group does it belong?)</li>
+<li>Depth (how many directories deep is it)</li>
+<ul>
 
-<small>
-- <strong>Type</strong> (e.g. file or directory)
-- <strong>Name</strong> (what is it called)
-- <strong>Path</strong> (where is it located)
-- Time stamps  (creation, last modification, last access)
-- Size (empty or some number of bytes)
-- Ownership (which user owns it and to which group does it belong?)
-- Depth (how many directories deep is it)
-</small>
-
-Let's look at some of the most important ones (highlighted above)…
+Let's look at the <strong>important</strong> ones.
 
 +++
 

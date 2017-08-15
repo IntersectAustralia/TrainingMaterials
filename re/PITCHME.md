@@ -5,10 +5,9 @@
 
 ---
 
-## Regular Expressions
-![Logo](https://imgs.xkcd.com/comics/regular_expressions.png)
+![regex-hero](https://imgs.xkcd.com/comics/regular_expressions.png)
 
-https://xkcd.com/208/
+[xkcd.com/208](https://xkcd.com/208/)
 
 ---
 

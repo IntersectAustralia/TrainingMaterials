@@ -55,7 +55,9 @@ Intersect is an eResearch company. eResearch is the delivery of specialist IT to
 
 ## Training
 
-We run training courses at all our member universities. We have trained:
+We run training courses in eResearch tools in a hands-on environment on campus for our member universities. 
+
+To date, we have trained:
 
 <ul>
     <li><strong>6800</strong> researchers</li>
