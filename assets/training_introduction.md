@@ -6,8 +6,6 @@
 
 +++
 
-### Research Technology Impact
-
 ![research_technology_impact](assets/research_technology_impact.png)
 
 Note:
