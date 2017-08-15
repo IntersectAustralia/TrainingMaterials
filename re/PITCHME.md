@@ -62,7 +62,7 @@ using patterns constructed from <strong>metacharacters</strong> to stand for var
 
 #### From literal matching to pattern matching
 
-Note the leap from looking for a literal match (<em>#auspol</em>, <em>(555) 3226</em>em>) to matching a pattern, for example:
+Note the leap from looking for a literal match (<em>#auspol</em>, <em>(555) 3226</em>) to matching a pattern, for example:
 
 - A # character followed by any number of alphanumeric characters but no spaces or punctuation |
 - A collection of digits in blocks of two, three or four, separated by spaces, the first block sometimes in parentheses |
