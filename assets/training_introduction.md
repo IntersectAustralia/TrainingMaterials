@@ -57,12 +57,7 @@ We run training courses in eResearch tools in a hands-on environment on campus f
 
 To date, we have trained:
 
-<ul>
-    <li><strong>6800</strong> researchers</li>
-    <li>in <strong>650</strong> courses</li>
-    <li>at <strong>14</strong> universities</li>
-    <li>across <strong>4</strong> states and territories</li>
-</ul>
+---?include=/IntersectAustralia/Trainify/stats.md
 
 +++
 
