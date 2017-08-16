@@ -57,7 +57,7 @@ We run training courses in eResearch tools in a hands-on environment on campus f
 
 To date, we have trained:
 
----?include=/IntersectAustralia/Trainify/stats.md
+---?include=/IntersectAustralia/trainify/blob/master/stats.md
 
 +++
 
