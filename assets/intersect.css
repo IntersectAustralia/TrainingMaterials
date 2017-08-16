@@ -3,7 +3,7 @@
  *
  * By Hakim El Hattab, http://hakim.se
  */
-@import url(../../lib/font/source-sans-pro/source-sans-pro.css);
+@import url('https://fonts.googleapis.com/css?family=Muli|Roboto');
 section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
   color: #222; }
 
@@ -15,19 +15,19 @@ body {
   background-color: #222; }
 
 .reveal {
-  font-family: "PT Sans", "Source Sans Pro", Helvetica, sans-serif;
+  font-family: "Muli", "Roboto", "Source Sans Pro", Helvetica, sans-serif;
   font-size: 42px;
   font-weight: normal;
   color: #fff; }
 
 ::selection {
   color: #fff;
-  background: #bee4fd;
+  background: #f3980c;
   text-shadow: none; }
 
 ::-moz-selection {
   color: #fff;
-  background: #bee4fd;
+  background: #f3980c;
   text-shadow: none; }
 
 .reveal .slides > section,
@@ -45,8 +45,8 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #fff;
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  color: #f3980c;
+  font-family: "Muli", "Roboto", "Source Sans Pro", Helvetica, sans-serif;
   font-weight: 600;
   line-height: 1.2;
   letter-spacing: normal;
