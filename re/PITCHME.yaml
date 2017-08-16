@@ -1,5 +1,6 @@
-footnote: © 2017 Intersect Australia
-transition: fade
-slide-number: true
-logo: assets/intersect-logo.png
+footnote : © 2017 Intersect Australia
+transition : fade
+slide-number : true
+logo : assets/intersect-logo.png
+theme : intersect
 theme-override : assets/intersect.css
