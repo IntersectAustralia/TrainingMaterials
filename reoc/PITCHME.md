@@ -104,7 +104,7 @@ Once found, matching files can be:
 
 `find` allows us to set criteria based on most characteristics of files:
 
-<ul style="font-size: 0.6em;">
+<ul style="font-size: 0.6em; line-height: 0.6;">
 <li><strong>Type</strong> (e.g. file or directory)</li>
 <li><strong>Name</strong> (what is it called)</li>
 <li><strong>Path</strong> (where is it located)</li>
@@ -112,7 +112,7 @@ Once found, matching files can be:
 <li>Size (empty or some number of bytes)</li>
 <li>Ownership (which user owns it and to which group does it belong?)</li>
 <li>Depth (how many directories deep is it)</li>
-<ul>
+</ul>
 
 Let's look at the <strong>important</strong> ones.
 
@@ -143,4 +143,11 @@ Let's look at the <strong>important</strong> ones.
 
 <em>That's a lower-case L, not the number 1!</em>
 
+
+
+
+
+
+
+/* closing */
 ---?include=assets/closing.md
