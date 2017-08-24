@@ -58,7 +58,12 @@ We run training courses in eResearch tools in a hands-on environment on campus f
 
 To date, we have trained:
 
----?include=stats.md
+<ul>
+<li><b class="researchers">6818</b> researchers</li>
+<li>in <b class="courses">650</b> courses</li>
+<li>at <b class="venues">14</b> institutions</li>
+<li>across <b>4</b> states and territories</li>
+</ul>
 
 +++
 
