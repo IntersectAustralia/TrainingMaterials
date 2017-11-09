@@ -1,1 +1,0 @@
----?include=assets/training_introduction.md
