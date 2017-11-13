@@ -100,7 +100,11 @@ To date, we have trained:
 	<li>Parallel Programming for HPC</li>
 </ul>
 
+---
+
 ### And back to today's course…
+
+---
 
 ### Thank you for attending!
 
